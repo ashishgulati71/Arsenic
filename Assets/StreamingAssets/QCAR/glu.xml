@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="uk" size="1000.000000 798.360657" />
+    <ImageTarget name="soha" size="1000.000000 1645.875244" />
+    <ImageTarget name="obama" size="1000.000000 967.373596" />
+    <ImageTarget name="noida" size="1000.000000 1121.107300" />
+    <ImageTarget name="david" size="1000.000000 818.780884" />
+    <ImageTarget name="amma" size="1000.000000 1008.143311" />
+    <ImageTarget name="closeup" size="1000.000000 622.436646" />
+    <ImageTarget name="kholi" size="1000.000000 1953.545288" />
+  </Tracking>
+</QCARConfig>
